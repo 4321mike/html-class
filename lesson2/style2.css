@@ -1,0 +1,27 @@
+h1 {
+    color: #ff0000;
+}
+
+div {
+    color:blue;
+}
+
+.first-div {
+    color: #ff0000;
+}
+
+#second-div {
+    color: yellow;
+    font-size: 30px;
+}
+
+button {
+    padding: 20px;
+    background-color: #ff0000;
+}
+
+button:hover {
+    color: #fff;
+    background-color: yellow;
+    border: 5px solid green;
+}
